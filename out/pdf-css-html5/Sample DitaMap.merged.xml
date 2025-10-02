@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Santhosh/training/Sample%20DitaMap.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Sample Dita Map</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Sample Dita Map</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_dita"><resourceid appid="concept_dita" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">concept.dita</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">concept-what is dita</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="task_dita"><resourceid appid="task_dita" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">task dita</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Getting Started with DITA</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_3" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_dita"><resourceid appid="reference_dita" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">reference.dita</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">DITA Topic Types</shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="concept_dita" oid="concept_dita" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">concept.dita</ph></title>
+    <shortdesc class="- topic/shortdesc ">concept-what is dita</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">What is DITA?</p>
+        <p class="- topic/p ">DITA stands for Darwin Information Typing Architecture. It is an XML standard for
+            creating structured and reusable documentation.</p>
+        <p class="- topic/p ">Concept topics explain background information or theory.</p>
+        <fig class="- topic/fig " id="unique_1_Connect_42_fig_yrk_3wn_qgc" nd:nd-id="fig_yrk_3wn_qgc"><p class="- topic/p ">Myself</p><image class="- topic/image " dita-ot:image-width="4128" dita-ot:image-height="2322" href="file:/C:/Users/Santhosh/Documents/OxygenXMLEditor/samples/dita/image-map/images/20200110_092049.jpg" id="unique_1_Connect_42_image_jsy_jwn_qgc" nd:nd-id="image_jsy_jwn_qgc" placement="inline"/></fig>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="task_dita" oid="task_dita" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">task dita</ph></title>
+    <shortdesc class="- topic/shortdesc ">Getting Started with DITA</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Open Oxygen XML Author.\</p>
+        <p class="- topic/p ">Create a new DITA Map and add topics to it.</p>
+        <p class="- topic/p ">Use the DITA-OT publishing engine to generate output.</p>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="reference_dita" oid="reference_dita" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">reference.dita</ph></title>
+    <shortdesc class="- topic/shortdesc ">DITA Topic Types</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <data class="- topic/data ">
+            <title class="- topic/title ">uh.….</title>
+        </data>
+        <example class="- topic/example ">
+            <p class="- topic/p ">fuck upooo</p>
+        </example>
+    </refbody>
+    <reference class="- topic/topic       reference/reference " id="unique_4" nd:nd-id="reference_jbx_15n_qgc" oid="reference_jbx_15n_qgc" specializations="@props/deliveryTarget">
+        <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">r4tgrrhsrghaseg</ph></title>
+        <shortdesc class="- topic/shortdesc ">lick ass</shortdesc>
+    </reference>
+</reference></concept></map>

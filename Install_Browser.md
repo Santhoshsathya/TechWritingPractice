@@ -7,3 +7,5 @@
 5. Once installation is complete, open the browser.
 
 > Tip: Keep your system updated.
+
+6. Already saved . so find cnnjcdckskm

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_djt_5nn_qgc">
+    <title>Login to Net Banking</title>
+    <shortdesc>DITA authoring</shortdesc>
+    <taskbody>
+        <context>
+            <p>DITA authoring refers to creating and managing technical content using the Darwin
+                Information Typing Architecture (DITA)which is an XML-based standard for structured
+                authoring and publishing.</p>
+            <p>Follow bwlow steps</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>sdcdcsllsdll,cd</cmd>
+                <stepresult>fgrefefefrt</stepresult>
+            </step>
+            <step>
+                <cmd>Following a <b>trainer's instructions</b> for an exercise routine.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
