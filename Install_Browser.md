@@ -14,7 +14,7 @@ jnkmks
 skmsmxs
 mnnk
 
-jnmss
-kssjnx
+1. jnmss
+2. kssjnx
 mk,mxks
 
