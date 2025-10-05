@@ -3,12 +3,9 @@
 
 + Santhosh
     + sathya
-        1. Sumathi
-        2. Saravanan
             * saythua 
                 1. jsjs
                 2. jsks'
-
 
 - [ ] jakakls
 - [x] JJSKSKLA
